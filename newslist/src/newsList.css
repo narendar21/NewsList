@@ -1,0 +1,34 @@
+.MainDiv{
+background: '#f1f1f1';
+width: '60vw'
+}
+.NewHeading{
+text-decoration: 'underline';
+ margin: '0 0 0  5vw';
+text-align: 'left'
+}
+.FilterDropDown{
+float: 'right';
+margin-right: '10vw'
+}
+.NewsListLink{
+    text-decoration: 'none';
+    color:'black'
+}
+.NewsSourceDisabledButton{
+    margin: '0 0 0 1vw';
+    background-color: 'grey';
+    color: 'white';
+    border-radius: '1vw'
+}
+.MoreButton
+{
+margin: '0 0 0 5vw';
+ color: 'red';
+ height: '3VW';
+ width: '10vw';
+ border: 'solid red 2px';
+ font-size:'1.3vw'
+}
+
+
